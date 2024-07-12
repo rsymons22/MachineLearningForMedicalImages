@@ -5,10 +5,10 @@ matplotlib
 keras
 ipython
 jupyter
-scikit-learn==0.18
+scikit-learn
 scikit-image
 pydotplus
 pydicom
 nibabel
-pip install of pydot-ng
+pydot-ng
 h5py
