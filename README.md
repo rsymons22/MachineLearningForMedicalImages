@@ -35,3 +35,15 @@ Sincerely,
   
     - Timothy Kline, PhD < Kline.Timothy at Mayo.edu>
     
+
+# RIT CSCI 635 Project (Group 2)
+This code has been updated as a part of a project in the CSCI 635 Machine Learning Course at the Rochester Institution of Technology (we have no affiliation with the Mayo Radiology Informatics Laboratory, all rights go to Bradley J Erickson and others.)
+
+To run this code, it is recommended to have at least python 3.11 installed. Then it is suggested to use a pip virtual environment with all the packages listed in `newrequirements.txt`
+
+`python -m venv virtualenv`
+`virtualenv\Scripts\activate`
+`pip install -r newrequirements.txt`
+
+For this project, we are only worrying about the `Module 7.ipynb` file in the notebooks directory. The other notebooks should be functioning in this environment, but this project is only considering the Neural Network model implemented in module 7.
+
